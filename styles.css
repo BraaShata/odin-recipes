@@ -1,0 +1,19 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  text-align: center;
+  color: gold;
+  font-size: 50px;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  /* fix the alignment */
+}
+
+li {
+  padding-bottom: 20px;
+}
